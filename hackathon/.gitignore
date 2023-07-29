@@ -1,0 +1,4 @@
+node_modules
+Backend/venv
+build
+./Backend/Prediction_Model.h5
